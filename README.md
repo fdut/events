@@ -31,7 +31,7 @@ npm install -g ionic@3.19
 Install Cordova
 
 ```
-npm install -g cordova
+npm install -g cordova@7.0.1
 ```
 
 - Create API Connect instance
